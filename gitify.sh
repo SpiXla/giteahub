@@ -117,3 +117,6 @@ main() {
 }
 
 main "$@"
+
+
+# git remote -v
